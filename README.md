@@ -14,5 +14,6 @@ Aquest examen serveix per practicar amb Git i Markdown.
 
 ![logotip de l'xamen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbu9T7WoDGnHTE8v64n6wMzfJXLCzED-x3Q&s)
 
-### Gràcies per completar l'examen!:SMILE
+### Gràcies per completar l'examen!
+:SMILE
 
