@@ -1,0 +1,9 @@
+- Passos per completar l'examen:
+
+1. Crear un repositori remot.
+
+2. Clonar el repositori.
+
+3. Afegeix fitxers i puja'ls.
+
+Fes un commit i puja els canvis al repositori remot.
